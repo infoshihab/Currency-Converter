@@ -1,2 +1,2 @@
 # Currency-Converter
-i just made a Currency Coverter with using API 
+I just made a Currency Converter with using API 
